@@ -1,0 +1,108 @@
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\BTL1.exe.config
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\BTL1.exe
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\BTL1.pdb
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\EPPlus.dll
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\EPPlus.Interfaces.dll
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\Guna.UI2.dll
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.Buffers.dll
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.Memory.dll
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.Numerics.Vectors.dll
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\EPPlus.xml
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.Buffers.xml
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.Memory.xml
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.Numerics.Vectors.xml
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.AssemblyReference.cache
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.FormApp.frmChinh.resources
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.frmDangNhap.resources
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_DatPhong.resources
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_HoaDon.resources
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_KhachHang.resources
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_NhanVien.resources
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_Phong.resources
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_SuDungDichVu.resources
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.Properties.Resources.resources
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.GenerateResource.cache
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.CoreCompileInputs.cache
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.Up2Date
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.exe
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.pdb
+C:\hoc_tap\nam_3\lap trinh truc quan\BTL\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.exe.config
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\BTL1.exe.config
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\BTL1.exe
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\BTL1.pdb
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\EPPlus.dll
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\EPPlus.Interfaces.dll
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\Guna.UI2.dll
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.Buffers.dll
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.Memory.dll
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.Numerics.Vectors.dll
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\EPPlus.xml
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.Buffers.xml
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.Memory.xml
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.Numerics.Vectors.xml
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.AssemblyReference.cache
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.exe.config
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.FormApp.frmChinh.resources
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.frmDangNhap.resources
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_DatPhong.resources
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_HoaDon.resources
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_KhachHang.resources
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_NhanVien.resources
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_Phong.resources
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_SuDungDichVu.resources
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.Properties.Resources.resources
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.GenerateResource.cache
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.CoreCompileInputs.cache
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.Up2Date
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.exe
+D:\Nam3\Project\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.pdb
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\BTL1.exe.config
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\BTL1.exe
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\BTL1.pdb
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\EPPlus.dll
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\EPPlus.xml
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.exe.config
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.FormApp.frmChinh.resources
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.frmDangNhap.resources
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_DatPhong.resources
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_HoaDon.resources
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_KhachHang.resources
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_NhanVien.resources
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_Phong.resources
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.GUI.UserControls.UC_SuDungDichVu.resources
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.csproj.Up2Date
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.exe
+C:\Users\ADMIN\Downloads\BTL1 (3)\BTL1 (1) - Copy\BTL1 (1) - Copy\BTL1\obj\Debug\BTL1.pdb

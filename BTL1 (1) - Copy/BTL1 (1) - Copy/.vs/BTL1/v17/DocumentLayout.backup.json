@@ -1,0 +1,764 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\formapp\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\formapp\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\formapp\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\formapp\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|c:\\users\\admin\\downloads\\btl1 (3)\\btl1 (1) - copy\\btl1 (1) - copy\\btl1\\bus\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\bus\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\quanlykhachsan.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\quanlykhachsan.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\bus\\thongkebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\bus\\thongkebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\bus\\datphongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\bus\\datphongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\bus\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\bus\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_phong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_phong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\forms\\frmthemkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\forms\\frmthemkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\formapp\\frmthemkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\formapp\\frmthemkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\forms\\frmthemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\forms\\frmthemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\formapp\\frmthemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\formapp\\frmthemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\dal\\datphongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\dal\\datphongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\dal\\sudungdichvudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\dal\\sudungdichvudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_sudungdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_sudungdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_sudungdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_sudungdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_sudungdichvu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_sudungdichvu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\dal\\phongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\dal\\phongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\bus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\bus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\bus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\bus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\bus\\phongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\bus\\phongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_dichvu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_dichvu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\bus\\sudungdichvubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\bus\\sudungdichvubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\dal\\dichvudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\dal\\dichvudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\bus\\dichvubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\bus\\dichvubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_nhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_nhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\usercontrols\\uc_khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\usercontrols\\uc_khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\btl1\\gui\\formapp\\frmchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACE6152-E7BB-4F65-9689-C2BDC411A437}|BTL1\\BTL1.csproj|solutionrelative:btl1\\gui\\formapp\\frmchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\SessionManager.cs",
+              "RelativeDocumentMoniker": "BTL1\\BUS\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\SessionManager.cs",
+              "RelativeToolTip": "BTL1\\BUS\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:00:45.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\App.config",
+              "RelativeDocumentMoniker": "BTL1\\App.config",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\App.config",
+              "RelativeToolTip": "BTL1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-23T14:47:47.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmThemKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmThemKhachHang.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\FormApp\\frmThemKhachHang.cs",
+              "ToolTip": "C:\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmThemKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmThemKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:12:52.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_HoaDon.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_HoaDon.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_HoaDon.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_HoaDon.cs",
+              "ViewState": "AgIAAKYCAAAAAAAAAAAawLECAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:03:15.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmChinh.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\FormApp\\frmChinh.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmChinh.cs [Design]",
+              "RelativeToolTip": "BTL1\\GUI\\FormApp\\frmChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:32:16.37Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmChinh.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmChinh.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\FormApp\\frmChinh.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmChinh.cs",
+              "RelativeToolTip": "BTL1\\GUI\\FormApp\\frmChinh.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAIwPsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:40:48.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quanlykhachsan.sql ",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\Quanlykhachsan.sql",
+              "RelativeDocumentMoniker": "BTL1\\Quanlykhachsan.sql",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\Quanlykhachsan.sql",
+              "RelativeToolTip": "BTL1\\Quanlykhachsan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-23T15:04:52.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThongKeBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\ThongKeBUS.cs",
+              "RelativeDocumentMoniker": "BTL1\\BUS\\ThongKeBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\ThongKeBUS.cs",
+              "RelativeToolTip": "BTL1\\BUS\\ThongKeBUS.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:05:03.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmThemKhachHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\Forms\\frmThemKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\Forms\\frmThemKhachHang.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\Forms\\frmThemKhachHang.Designer.cs",
+              "RelativeToolTip": "BTL1\\GUI\\Forms\\frmThemKhachHang.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAnwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:10:04.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_HoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_HoaDon.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_HoaDon.cs",
+              "ToolTip": "D:\\Nam3\\Project\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:56:15.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoaDonBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\HoaDonBUS.cs",
+              "RelativeDocumentMoniker": "BTL1\\BUS\\HoaDonBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\HoaDonBUS.cs",
+              "RelativeToolTip": "BTL1\\BUS\\HoaDonBUS.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAASwDwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:21:31.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_Phong.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_Phong.Designer.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_Phong.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_Phong.Designer.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_Phong.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcCAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:41:03.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmThemKhachHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmThemKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\FormApp\\frmThemKhachHang.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmThemKhachHang.Designer.cs",
+              "RelativeToolTip": "BTL1\\GUI\\FormApp\\frmThemKhachHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:13:02.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmThemKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\Forms\\frmThemKhachHang.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\Forms\\frmThemKhachHang.cs",
+              "ToolTip": "C:\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\Forms\\frmThemKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\Forms\\frmThemKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:12:54.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_Phong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_Phong.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_Phong.cs",
+              "ToolTip": "C:\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_Phong.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_Phong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:00:15.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatPhongBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\DatPhongBUS.cs",
+              "RelativeDocumentMoniker": "BTL1\\BUS\\DatPhongBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\DatPhongBUS.cs",
+              "RelativeToolTip": "BTL1\\BUS\\DatPhongBUS.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAASwPUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:25:33.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UC_ThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_ThongKe.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_ThongKe.cs",
+              "ToolTip": "C:\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_ThongKe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:05:53.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_HoaDon.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_HoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_HoaDon.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_HoaDon.Designer.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_HoaDon.Designer.cs",
+              "ViewState": "AgIAACsCAAAAAAAAAAAnwNoBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:36:02.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_ThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_ThongKe.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_ThongKe.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_ThongKe.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_ThongKe.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAnwIsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T11:30:36.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HoaDonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\HoaDonDAL.cs",
+              "RelativeDocumentMoniker": "BTL1\\DAL\\HoaDonDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\HoaDonDAL.cs",
+              "RelativeToolTip": "BTL1\\DAL\\HoaDonDAL.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAIA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:21:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatPhongDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\DatPhongDAL.cs",
+              "RelativeDocumentMoniker": "BTL1\\DAL\\DatPhongDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\DatPhongDAL.cs",
+              "RelativeToolTip": "BTL1\\DAL\\DatPhongDAL.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:30:29.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SuDungDichVuDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\SuDungDichVuDAL.cs",
+              "RelativeDocumentMoniker": "BTL1\\DAL\\SuDungDichVuDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\SuDungDichVuDAL.cs",
+              "RelativeToolTip": "BTL1\\DAL\\SuDungDichVuDAL.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAASwOcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:30:19.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UC_SuDungDichVu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_SuDungDichVu.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_SuDungDichVu.cs",
+              "ToolTip": "C:\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_SuDungDichVu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_SuDungDichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:02:13.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UC_DatPhong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_DatPhong.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_DatPhong.cs",
+              "ToolTip": "C:\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_DatPhong.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_DatPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:53:39.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UC_SuDungDichVu.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_SuDungDichVu.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_SuDungDichVu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_SuDungDichVu.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_SuDungDichVu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:12:53.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UC_SuDungDichVu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_SuDungDichVu.Designer.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_SuDungDichVu.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_SuDungDichVu.Designer.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_SuDungDichVu.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAnwIEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:13:34.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NhanVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\NhanVienDAL.cs",
+              "RelativeDocumentMoniker": "BTL1\\DAL\\NhanVienDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\NhanVienDAL.cs",
+              "RelativeToolTip": "BTL1\\DAL\\NhanVienDAL.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:08:07.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "KhachHangDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\KhachHangDAL.cs",
+              "RelativeDocumentMoniker": "BTL1\\DAL\\KhachHangDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\KhachHangDAL.cs",
+              "RelativeToolTip": "BTL1\\DAL\\KhachHangDAL.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:07:59.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PhongDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\PhongDAL.cs",
+              "RelativeDocumentMoniker": "BTL1\\DAL\\PhongDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\PhongDAL.cs",
+              "RelativeToolTip": "BTL1\\DAL\\PhongDAL.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:07:29.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NhanVienBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\NhanVienBUS.cs",
+              "RelativeDocumentMoniker": "BTL1\\BUS\\NhanVienBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\NhanVienBUS.cs",
+              "RelativeToolTip": "BTL1\\BUS\\NhanVienBUS.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:07:22.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KhachHangBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\KhachHangBUS.cs",
+              "RelativeDocumentMoniker": "BTL1\\BUS\\KhachHangBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\KhachHangBUS.cs",
+              "RelativeToolTip": "BTL1\\BUS\\KhachHangBUS.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAIA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:07:04.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PhongBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\PhongBUS.cs",
+              "RelativeDocumentMoniker": "BTL1\\BUS\\PhongBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\PhongBUS.cs",
+              "RelativeToolTip": "BTL1\\BUS\\PhongBUS.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:06:40.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UC_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_NhanVien.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_NhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_NhanVien.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_NhanVien.cs",
+              "ViewState": "AgIAAJUBAAAAAAAAAAAvwLcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:06:34.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UC_KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_KhachHang.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_KhachHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_KhachHang.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_KhachHang.cs",
+              "ViewState": "AgIAAGEBAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:06:29.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UC_Phong.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_Phong.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_Phong.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_Phong.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_Phong.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:06:22.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UC_DichVu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_DichVu.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_DichVu.cs",
+              "ToolTip": "C:\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_DichVu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_DichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:05:35.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UC_NhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_NhanVien.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_NhanVien.cs",
+              "ToolTip": "C:\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_NhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:50:41.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UC_KhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_KhachHang.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_KhachHang.cs",
+              "ToolTip": "C:\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_KhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\hoc_tap\\nam_3\\lap trinh truc quan\\BTL\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:57:46.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SuDungDichVuBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\SuDungDichVuBUS.cs",
+              "RelativeDocumentMoniker": "BTL1\\BUS\\SuDungDichVuBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\SuDungDichVuBUS.cs",
+              "RelativeToolTip": "BTL1\\BUS\\SuDungDichVuBUS.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAnwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:30:34.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UC_DichVu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_DichVu.Designer.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_DichVu.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_DichVu.Designer.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_DichVu.Designer.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:08:49.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DichVuDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\DichVuDAL.cs",
+              "RelativeDocumentMoniker": "BTL1\\DAL\\DichVuDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\DAL\\DichVuDAL.cs",
+              "RelativeToolTip": "BTL1\\DAL\\DichVuDAL.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:24:38.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DichVuBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\DichVuBUS.cs",
+              "RelativeDocumentMoniker": "BTL1\\BUS\\DichVuBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\BUS\\DichVuBUS.cs",
+              "RelativeToolTip": "BTL1\\BUS\\DichVuBUS.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAewAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:24:30.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UC_DichVu.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_DichVu.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_DichVu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_DichVu.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_DichVu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:23:58.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UC_NhanVien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_NhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_NhanVien.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_NhanVien.Designer.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_NhanVien.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:07:46.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UC_KhachHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_KhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\UserControls\\UC_KhachHang.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\UserControls\\UC_KhachHang.Designer.cs",
+              "RelativeToolTip": "BTL1\\GUI\\UserControls\\UC_KhachHang.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:07:31.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmChinh.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmChinh.Designer.cs",
+              "RelativeDocumentMoniker": "BTL1\\GUI\\FormApp\\frmChinh.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\BTL1 (3)\\BTL1 (1) - Copy\\BTL1 (1) - Copy\\BTL1\\GUI\\FormApp\\frmChinh.Designer.cs",
+              "RelativeToolTip": "BTL1\\GUI\\FormApp\\frmChinh.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwGoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:32:13.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
